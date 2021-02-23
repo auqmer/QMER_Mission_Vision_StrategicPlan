@@ -1,6 +1,5 @@
 ---
 title: "QMER Development Plan"
-author: "William Murrah"
 output:
   html_document: default
   header-includes:
@@ -12,7 +11,7 @@ output:
 ---
 
 ```{r, echo=FALSE}
-htmltools::img(src = knitr::image_uri("figures/Letterhead 1.png"), 
+htmltools::img(src = knitr::image_uri("figures/Letterhead1.png"), 
                alt = 'logo', 
                style = 'position:absolute; top:0; left:0; padding:10px;')
 ```

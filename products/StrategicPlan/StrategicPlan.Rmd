@@ -1,6 +1,5 @@
 ---
 title: "QMER Mission Statement"
-author: "William Murrah"
 output: html_document
 ---
 
