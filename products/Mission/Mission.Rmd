@@ -1,0 +1,53 @@
+---
+title: "QMER Mission Statement"
+author: "William Murrah"
+output: html_document
+---
+
+```{r, echo=FALSE}
+htmltools::img(src = knitr::image_uri("figures/Letterhead1.png"), 
+               alt = 'logo', 
+               style = 'position:absolute; top:0; left:0; padding:10px;')
+```
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## QMER Vision, Mission, Goals and Values
+
+### Vision: 
+
+QMER will be a leader for developing top tier educational, social, and behavioral research through the integration of (a) advancement of theoretical and methodological practice, (b) expansion of data development and access, and (c) innovation in research training. QMER will be a center for exemplary research to improve the practice of education for Alabama in a global society.
+
+### Mission: 
+
+To improve the rigor, quality, and fidelity of quantitative educational research methods and theories in Alabama and beyond. 
+
+### Goals:
+
+-	To promote forms of best practice in quantitative methodological inquiry for educational practitioners, policymakers, and researchers
+-	To disseminate practical application of research for the benefit of Alabama’s citizens
+-	To make available and accessible sources of data for future research
+-	To enhance support for students and faculty as a learning community
+-	To grow and sustain a diverse body of quantitative researchers at Auburn
+
+### Values:
+
+-	Integration of teaching, research, and outreach
+-	Collegiality and collaboration
+-	Open access
+-	Excellence in scholarship
+-	Continuous improvement
+
+
+
+# New
+
+## Teaching and Learning
+
+## Research
+
+## Service and Outreach
+
+

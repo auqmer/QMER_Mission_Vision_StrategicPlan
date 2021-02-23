@@ -1,0 +1,83 @@
+---
+title: "QMER Mission Statement"
+author: "William Murrah"
+output: html_document
+---
+
+```{r, echo=FALSE}
+htmltools::img(src = knitr::image_uri("figures/Letterhead1.png"), 
+               alt = 'logo', 
+               style = 'position:absolute; top:0; left:0; padding:10px;')
+```
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## QMER Strategic Plan
+
+The QMER Strategic Plan is closely aligned with Auburn University's 2019-2024 Strategic Plan. 
+
+### Goal 1: Elevated Auburn Experience
+
+#### An Excellent and Supportive Student Experience
+
+Auburn University’s reputation for quality is grounded in its tradition of providing an excellent undergraduate and professional education. However, the Auburn Experience not only delivers an excellent education, it motivates and prepares our graduates to maximize their potential in their careers and their lives. It is about an excellent experience, both inside and outside the classroom. It is about achieving a broad sense of well-being. It is about producing well-rounded, centered contributors to society. Accordingly, Auburn University has a responsibility to provide students with more than discipline-specific knowledge and skills. We are committed to teaching life and soft skills. This includes leadership, high ethical standards, inclusivity, civic literacy and engagement, the value of hard work, critical thinking, proper attention to detail, wellness, personal financial literacy, and communication skills, among others. Our aim is to inspire and teach our students to be lifelong learners and to embrace life’s challenges.
+
+A supportive experience is essential to student success. Academic accomplishment is not just driven by intellectual ability. Many other factors impact the success of students, both while at Auburn and after graduation. Students must be encouraged and mentored through their programs. Career counseling and academic advising must be elevated as part of the student experience. A key differentiator of Auburn University’s on-campus experience is the personal connection between the faculty/administration and students.
+
+Auburn University is placing an increasing emphasis on measurable outcomes, both while students are at the university and once they leave. We will improve our assessments of whether students have acquired the knowledge, skills, and competencies consistent with the university’s desired general education outcomes. We will also get better at identifying high impact practices that have contributed to students’ cumulative learning. Finally, we will better track our students’ success after graduation. Auburn is committed to quantifiably improving student success.
+
+Of course, a key aim is to ensure that our students are highly sought by industry, government, non-profits, and academia. To this end, we will provide more experiences, particularly professional experiences and research work, that closely align with post-graduation opportunities. We intend to collaborate more closely with industry, academia, and other partners to ensure our curricula, faculty, and other important elements of the student experience are mutually beneficial.
+
+Auburn University recognizes and values the considerable educational benefits provided by diversity as we prepare our students for life and leadership in a multicultural world. Cultural competency is important. Students who interact with and learn about people from a variety of backgrounds are more apt to understand, appreciate, and excel in the communities they inhabit. In this context, diversity is aligned with Auburn University’s land-grant mission of providing its students with a superior education in service to the needs of Alabama, the nation, and the world.
+
+#### Distinctive, Innovative Curricula
+
+Auburn University cultivates a collaborative student culture that supports high academic achievement, resulting in a number of nationally and internationally recognized academic programs. However, rapid changes in what we teach and how we teach it will likely continue. The classroom 20 years in the future will likely bear little resemblance to today’s classroom. Accordingly, we will continuously reassess our curricula to ensure it reflects the content, structure, and delivery methods suited to the students of today and tomorrow. Relevance is a key driver of our curricula. We must make way for emerging disciplines and interdisciplinary programs (potentially including the creation of interdisciplinary centers) that support student research and economic development—future focus areas for the university. This means some existing programs might be converted to concentrations or merged with other programs.
+
+Technology will continue to play a significant role in educating our students. We must continue to find creative ways to advance instruction augmented by technology. In particular, more emphasis will be placed on online teaching, resulting in a number of benefits to the university. Online education allows Auburn to extend its reach beyond campus to underserved segments, such as high school students in 1 7 dual enrollment programs; students in completer programs; working adults seeking degrees; and lifelong learners and non-degree seekers (in continuing education programs). Online courses also help eliminate bottlenecks in the general core curriculum and provide students with desired flexibility in completing their coursework.
+
+There are a number of approaches and methods in teaching and learning that Auburn University will need to track and assess (for efficacy):
+
+#### Active Learning Environments
+
+passive learning to active learning (e.g., debate and discussion)  
+Individual learning to collaborative/team-based learning  
+traditional classrooms to flipped classrooms  
+immersive learning: gamification and simulations  
+increased use of technology in instructional design  
+
+#### Applied Experience
+
+lecture/classroom learning to hands-on/in-the-field learning  
+theoretical skills to application-based/practical/job-specific skills (i.e., skills that prepare students for careers)  
+increased service orientation—i.e., more direct impact on the community   
+greater global focus, including more study abroad programs  
+
+#### Student-Driven Learning
+
+teaching to faculty-facilitation and self-learning  
+calendar-paced courses to modular and self-paced courses  
+testing-centric evaluation to project-centric evaluation  
+
+#### Flexible Curricula And Programs
+
+Standardization To Customization (For The Student)  
+Segmented/Distinct Progression To Seamless Progression (E.G., High School To College To Graduate   School). Example: Dual Enrollment Courses In High Schools.  
+Alternate Pathways To Auburn University—E.G., Dual Enrollment, Online Core Courses, And More Transfers From Two-Year Colleges-- For Students With Circumstances (E.G., Financial Need) That Preclude A Typical On-Campus Experience  
+Comprehensive Education To Competency-Based Education (Including Granting Certificates)  
+
+#### Engaging Student Life Programs
+
+A holistic approach to advancing student success is essential. This means creating a consolidated and coherent set of programs, services, and activities for students that span their time at Auburn University, from orientation to graduation. Recently, the university consolidated co-curricular activities, services, and functions under the Division of Student Affairs to better achieve this cohesive and supportive experience for students. Student life areas requiring more attention include: accommodating every incoming freshman that desires to live on-campus; providing increased parking; making our campus one of the safest in the country; improving accessibility; and enhancing mental health counseling. Auburn has a long history of strong student governance and seeking student input. We are committed to engaging students in all aspects of academic and campus life.
+
+### Goal 2: Transformative Research
+
+### Goal 3: Impactful Service
+
+### Goal 4: Exceptional and Egaging Faculty and Staff
+
+### Goal 5: Strategic Enrollment
+
+### Goal 6: Operational Excellence

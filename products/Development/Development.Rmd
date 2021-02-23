@@ -1,0 +1,61 @@
+---
+title: "QMER Development Plan"
+author: "William Murrah"
+output:
+  html_document: default
+  header-includes:
+  - \usepackage{titling}
+  - \pretitle{\begin{center} \includegraphics[width=2in,height=2in]{figures/Letterhead1.png}}
+  - \posttitle{\end{center}}
+  pdf_document: null
+  word_document: default
+---
+
+```{r, echo=FALSE}
+htmltools::img(src = knitr::image_uri("figures/Letterhead 1.png"), 
+               alt = 'logo', 
+               style = 'position:absolute; top:0; left:0; padding:10px;')
+```
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## QMER Development Plan 2019 - 2021:
+
+1.	Phase 1: 2019-2020: Foundation Development
+    a.	Learning Community 
+        i.	Offer monthly research roundtables
+        ii.	Outreach for new students/faculty
+        iii.	Offer 2-3 free workshops; 1 core skills, 1 method 
+        iv.	Collect pre-post data from participants on outcomes
+        v.	Develop listserv & profile of participants
+        vi.	Preliminary survey of effectiveness from staff
+            1.	IRB for collection
+    b.	Local Data Center
+        i.	Apply for IGP grant w/Biggio to support server
+        ii.	Collect available local data – ongoing
+        iii.	Identify open source practices and policies
+    c.	Theory, Measurement, and Methodology Forum
+        i.	Establish outreach format – newsletter & website
+        ii.	Outline research agenda
+        iii.	Develop teams & tasks
+
+2.	Phase 2: 2020-2021: Expansion and Outreach
+    a.	Learning Community
+        i.	Continue monthly research roundtables
+        ii.	Outreach for new students/faculty
+        iii.	Offer In-Depth workshop (1-2 Days), charge
+            1.	Utilize data from Data Center for trainings
+        iv.	Offer 2-3 Workshops w/materials covered
+        v.	Develop data to begin initial, local publication on program
+        vi.	Explore AAAS NOYCE Grant for further development w/preliminary evidence – use for Good to Great
+    b.	Local Data Center
+        i.	Continue data collection
+        ii.	Establish annual survey for students/faculty to state educators
+        iii.	Deploy usage policies & procedures
+    c.	Theory, Measurement, and Methodology Forum
+        i.	Begin research dissemination 
+        ii.	Initial agenda results
+        iii.	Identify targets for outreach – LEA, ALSDE, etc. 
+        iv.	Identify other institutional partners (U of A, UAB, etc)
