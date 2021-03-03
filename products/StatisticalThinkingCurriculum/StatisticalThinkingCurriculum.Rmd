@@ -1,0 +1,26 @@
+---
+title: "Statistical Thinking Curriculum"
+author: "William Murrah"
+date: "2/23/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Organization of concepts
+
+1. Statistical Thinking  
+    A. Model-based Thinking  
+        I. Inferential Thinking  
+        II. Probabalistic Thinking  
+2. Computational Thinking  
+    A. Algorithmic Thinking  
+    B. Decomposition  
+    C. Abstraction  
+    D. Pattern Recognition  
+3. Hard Skills  
+    A. Statistical Programming  
+    B. Exploratory Data Analysis  
+    C. 
