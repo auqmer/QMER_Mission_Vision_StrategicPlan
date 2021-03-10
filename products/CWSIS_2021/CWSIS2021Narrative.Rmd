@@ -3,6 +3,8 @@ title: "CWSIS 2021 Narrative"
 output:
   word_document: default
   pdf_document: default
+  html_document:
+    df_print: paged
 ---
 
 ```{r setup, include=FALSE}
@@ -11,25 +13,108 @@ knitr::opts_chunk$set(echo = TRUE)
 
 CWSIS Narrative:  
 
-# Project Focus and Rationale
+## Project Focus and Rationale
 
-“*The under-representation of people of color in science, technology, engineering, and mathematics STEM has become a crisis of significant proportion*” (Alfred et al., 2019, p. 114).
+> “*The under-representation of people of color in science, technology, engineering, and mathematics STEM has become a crisis of significant proportion*” (Alfred et al., 2019, p. 114).
 
-The purpose of this social impact scholarship project is to generate pilot data and proof of concepts for the Quantitative Methods in Education Research (QMER) learning community. This data will be used to seek federal funding [nsf grant]. This pilot data will be used as an empirical foundation for the grant proposal.
-Include ROIs
-The QMER learning community is …. And is being developed to fulfill the growing needs of Alabama citizens and our work addresses critical aspects of the Auburn University 2019-2024 Strategic Plan and the Big Four research commitments. Specifically, …
+The purpose of this social impact scholarship project is to generate pilot data and establish proof of concept to expand the capabilities and infrastructure of Auburn University's Quantitative Methods in Education Research (QMER) learning community.
+Promoting diversity and increasing interest in STEM skills related to the use of the overwhelming amount of data available today is key to our country's prosperity.
+
+The mission of QMER is to empower students to harness the data revolution by fostering fundamental data science research skills which will promote a data capable workforce in Alabama and beyond.
+We do this by providing students and faculty free hands-on workshops related to modern research skills using open-source software, access to large national data sets along with increased computational resources, and opportunities to get involved with research with minimal prerequisites. 
+Since its inception two years ago, the impact of QMER has grown from working with graduate students and faculty in the College of Education to include participation across campus.
+Based on what we have learned over this time, we are now poised to expand the impact of QMER beyond the university.
+Our goal is to build a network across Alabama educational institutions, particularly non-intensive research institutions that do not have the research infrastructure of a very high intensity research university.
+Collaboration with such institutions will expose undergraduates, many of them historically under-represented students, to research, encourage them to pursue further education in STEM fields, and remove barriers to pursuing graduate work at institutions such as Auburn University.
+To do so will require federal funding to increase our capabilities and infrastructure.
+
+To secure such funding we have the following aims.
+First, to use the CWSIS funding to collect initial evidence that participation in the QMER learning community can promote the skills needed to succeed in data dependent STEM careers, as well as promote self-efficacy and interest in pursuing a STEM career.
+Second, we also want to identify barriers to participation by HUS in STEM fields as well as strengths they use to overcome those barriers. Finally, we want to know what barriers non-research intensive institutions face and what strengths they utilize to overcome these barriers.
+By identifying the strengths and barriers of student and institution we will be better positioned to leverage the Auburn university research infrastructure to promote participation in STEM graduate work. 
+As outlined below, this network will play an important role in realizing key aspects of Auburn University's Strategic Plan and Big Four Research Commitments.
+
+Research questions: 
+
+1. Does participation in the QMER learning community improve **research skills**  and **efficacy and confidence**? 
+2. What **barriers** to STEM participation do *historically under-represented students* face, and what **strengths** do they utilize to overcome these barriers?
+3. What **barriers** do *non-research intensive institutions* face and what **strengths** do they posses to overcome these barriers?
+
+---
+
+The p
+which will play a important role in realizing key aspects of Auburn University's Strategic Plan and Big Four Research Commitments as outlined below. 
+The data and results of the proposed study will lay the foundation for seeking federal funding from the National Science Foundation’s EHR Core Research (ECR): Building Capacity in STEM Education Research Grant (ECR: BCSER).
+The following three research questions frame this effort.
+
+
+
+The QMER learning community 
+
+This data will be used to seek federal funding.
+The data will also be used to develop a survey related to barriers to success for historically underrepresented students.
+The QMER learning community is …. And is being developed to fulfill the growing needs of Alabama citizens and our work addresses critical aspects of the Auburn University 2019-2024 Strategic Plan and the Big Four research commitments. Specifically,
 
 Innovative curriculum that supplements traditional statistical courses and builds pathways for integrating technological advances and teaching data science skills.
 QMER will continue to provide opportunities for Auburn University students to participate in authentic and meaningful research in .. using big data … learning to use advanced technology …. and learn cutting edge data science skills, which will prepare students for modern careers. 
 QMER will also continue to create an environment  to conduct transformative research that addresses critical issues faced by Alabama citizens, by 
 
-The purpose of 
+[Societal problem]
+
+Increasing need for STEM careers.
+Combined with the expectation that by 2050 minorities will comprise 53% of the population [cite census bureau in NSF Grand Challenges].
+There is considerable need to attract more minorities and other underrepresented students to STEM fields.
+
 Increasing representation of women, students of color, first-generation, and low income students has been considered “critical to the nation’s progress” in developing a leading-edge STEM workforce (NSF, 2018, p. ii). It is well established that there are considerable disproportionalities in enrollment and persistence in STEM graduate programs, brought on by barriers including structural inequalities, limited mentorship opportunities, and cultural mismatch [CITE]. However, less attention has been paid to the ways in which institutional access contributes to these disparities. Historically underrepresented students (HUS) are infrequently exposed to the resources, support, and expertise in their postsecondary environments to enroll and persist in STEM programs (Austin, 2002). The institutional types most attended by HUS, such as HBCU, regional comprehensive, and community colleges often lack the capacity to support graduate students in STEM career development [CITE]
 
+Changing the educational pipeline from pre-k to graduate school is critical to meeting these changing societal needs. 
+Therefore, educational researchers are critical to solving the problems of STEM involvement. [We have to make this case well. I think it is the best way to address Andrew's point about us not being in STEM]
+
+[QMER long-term solution]
 As a means to address disparities of institutional access and improve the STEM workforce in Alabama, the Quantitative Methods in Educational Research (QMER) group at Auburn University seeks to build a supportive and resource-rich quantitative and statistical skills learning community for a diverse array of students from HBCU, regional comprehensive, and community colleges in Alabama. We propose to overcome the gap between the type of postsecondary institution a student has access to, and the opportunity to be exposed to high-quality, STEM supportive learning environment and resources.
 
 QMER is a research support group led by professors in the Department of Educational Foundations, Leadership, and Technology at Auburn. For the past 2 years, QMER has run an interdisciplinary learning community at Auburn to support and improve research and data skills central to STEM success. QMER has offered dozens of free workshops on topics including data management, coding, and statistical methods in a no risk, friendly, and open environment. This learning community has been intentionally designed around principals supportive of historically underrepresented students [CITE]. QMER also runs two research labs with a diverse and interdisciplinary team of students, focused on improving educational equity in Alabama through the use of an extensive collection of public-use data accessible on our own powerful server and networked computing hub. These labs offer students a chance to jump into research with diverse team of interested students, with all the data and computing resources provided. We believe the growth and success of our program at Auburn may be well-positioned to extended across institutional types to serve historically underrepresented students and address the social challenge of building a diverse STEM workforce in Alabama. 
 
+Research questions: 
+
+1. Does participation in the QMER learning community improve **research skills**  and **efficacy and confidence**? 
+2. What **barriers** to STEM participation do *historically under-represented students* face, and what **strengths** do they utilize to overcome these barriers?
+3. What **barriers** do *non-research intensive institutions* face and what **strengths** do they posses to overcome these barriers?
+
+### Elevated Auburn Experience
+
+flatten prerequisites to STEM skills through computational and other technological skills, 
+
+Student-driven experiences, applying skills to real data in an active learning environment. 
+Flexible curriculum in-person and online (both synchronous, asynchronous).
+Students are able to participate in QMER early in there 
+
+### Transformative Research
+
+increase and strengthen Auburn's research-intensive student population and research culture.
+
+Expand the capabilities and infrastructure of research 
+
+### Strategic enrollment
+
+"enhancing access, affordability, and academic quality"
+
+### NSF Big Challenges
+
+"Harnessing the data revolution" 
+"fundamental data science research" skills
+"data capable workforce"
+
+massive amounts of data, expanding computational capabilities, and new algorithms for discovering relations and patterns in data.
+promote generating new knowledge and innovation
+
+transcend existing scientific structures and standard operating procedures
+
+STEM inclusion network that will eventually scale up to the national level
+
+access and inspiration
+
+[CWSIS focused solution and RQs]
 However, there is still much we do not know about bridging the gap across institutional disparities and STEM success. Creating a long term and successful collaborations to address such disparities will require considerable research on student strengths and needs, curricular alignment, and modes of institutional fit. As such, we hope to pilot this institutional collaboration to gain insights on the following research questions: (1) Does a cross-institutional learning community improve student efficacy and confidence in STEM learning and skills? Does it address the barriers of historically underrepresented students, including cultural fit, sense of belonging, and need for mentorship? (2) What are the unique strengths and assets that historically underrepresented students bring to a learning community, and how can these best be engaged by the structure and approach of the learning environment? (3) What are the unique needs and strengths of non-research-intensive institutions creating inter-university STEM partnerships? 
 
 Our goal is to extend our resources to foster collaborative partnerships with local colleges towards a STEM professional development pipeline to improve the strength and diversity of the STEM workforce in Alabama. It is part of our broader hopes to support the University mission to improve opportunities and quality of life for all Alabamians through “forward-thinking education,” and align with Auburn’s 2019-2024 Strategic Plan and “Big Four” research commitments to “create intelligent solutions” and “build resilient societies.” Our objectives are as follows: (1) To support HUS in STEM research skills through access to, and participation in, the QMER learning community and research teams. This includes ongoing learning community workshops on statistical and research skills, personal support from trained methodologists, access to software, and access to extensive data and computing resources; (2) To promote the strengths, assets, and perspectives of HUS in STEM curriculum design, and engage in iterative curricular development to support these students now and in the future; (3) To build, maintain, and scale research partnerships between Auburn and other Alabama colleges to improve student pathways and encourage equitable access to STEM through supportive research opportunities and resources. 
@@ -56,7 +141,8 @@ Through this approach, we intend to address the gaps in knowledge and procedure 
 
 While partnership development and student recruitment between institutions would face considerable barriers of distance and travel, QMER pivoted to a fully online delivery strategy during the pandemic. We only use open-source, system agnostic, and free software and data for our programs, and have developed our lessons to be fully conducted online. With a resource ecosystem built on open coding language (R, Markdown, Python), archival files formats readable by fully free, open-license software (e.g., Atom, LibreOffice, GitHub), and data built from public-use sources (e.g., Stanford Education Data Archive), students do not need institutional access, licensed software, or special permissions to fully participate. This combination of online delivery and an open-source curricular ecosystem means that we already have the capacity to scale our existing QMER learning community and labs to new students without limitations of space or resources, and can pivot if circumstances change by eliminating barriers of proximity. 
 
-Deliverables and Benefits
+## Deliverables and Benefits
+
 As noted above, our goal is to extend our resources to foster collaborative partnerships with local colleges towards a STEM professional development pipeline to improve the strength and diversity of the STEM workforce in Alabama. We believe this produces value by aligning with the National Science Foundation’s strategic plan to “advance the national health, prosperity and welfare,” through the “development of a high-quality, diverse workforce needed to carry out the Nation’s Science, Technology, Engineering, and Mathematics (STEM) research, and building capacity for undergraduate, graduate, and post-doctoral research training” (NSF, 2018, p. 1) and support the broader University mission to “educate students and prepare them for life” and ‘drive the development of research and scholarship” through “engagement and outreach.” [CITE]. We aim to demonstrate this through specific deliverables for the purposes of (1) dissemination and (2) program expansion. 
 
 1.	Dissemination. To disseminate the lessons of this program, we intend to report on our findings in both academic and practitioner conferences and journals. We plan to use our research findings to write and present findings on (1) asset-based techniques for learning communities to support STEM learning for non-traditional and historically underrepresented students (2) opportunities for learning communities to diversify STEM pipelines, and (3) strengths of inter-university learning community partnerships. We intend to present these findings at higher education conferences including, but not limited to: the American Association of Colleges & Universities (AAC&U) Diversity, Equity, and Student Success conference, the AAC&U Transforming STEM in Higher Education conference, and the American Educational Research Association’s (AERA) annual meeting (Division J- Postsecondary Education). Using feedback from these conferences, we intend to aim for a minimum of three publications on these findings in journals such as the Journal of Science Education and Technology, Higher Education, the Journal of Higher Education, and/or Journal for STEM Education Research. We further intend to further disseminate this information to practitioner spaces, such as writing blog posts for the American Academy for the Advancement of Science (AAAS) ARISE network, and results to local community college and HBCU partners. 	
